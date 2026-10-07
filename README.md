@@ -9,6 +9,13 @@ your own Mac.
 
 ---
 
+## 🎁 Free trial: 3 working days, everything unlocked
+
+- Install and set up for free. Your trial starts the **first time you press Start**: full features, no mail limit,
+  for **3 working days** (Mon–Fri, US Eastern; weekends don't count; a start after noon counts from the next day).
+- The trial belongs to **your Mac**: changing Gmail accounts, reinstalling or deleting the app doesn't start a new one.
+- When it ends, your data stays; mails pause until you buy a license.
+
 ## 💳 Price: $199 one-time
 
 - One license = one Mac, yours forever, including all updates. No monthly fee.
@@ -18,7 +25,7 @@ your own Mac.
   (25%, 50%, 75% or 100%). Your coupon is **emailed to you**, works **only for your email address**, once, for 30 days.
   Send the code, your Machine ID and that email on WhatsApp.
 - After payment you get a **license key** (starts with `JOL1-`) on WhatsApp → paste it in **Settings → License → Activate**.
-- Until activated you can install and set everything up, but mails don't go out.
+- After the free trial, mails stay paused until you activate (your data is kept).
 - By activating you accept the **license agreement** (personal use on one Mac; no copying, sharing, reselling or reverse-engineering).
 
 | Coupon | You pay |
@@ -65,7 +72,7 @@ your own Mac.
 
 The Dashboard shows a green **Welcome** card until these are done. Click **Open** next to each item.
 
-0. **Settings → License:** activate your license (see *Price* above).
+0. **Free trial / License:** your 3-working-day trial starts when you press **Start**; activate a license any time in Settings → License.
 
 1. **Settings → About you:** your name, phone, availability. (Your LinkedIn URL is only used when you choose to send it — it's never added to mails automatically.)
 2. **Settings → Gmail:** your Gmail address and the 16-letter App Password → click **Test Gmail login**.
