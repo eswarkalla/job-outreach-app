@@ -216,5 +216,8 @@ reopens by itself in a few seconds. Your data is never changed.
 ---
 
 ### 🤝 Stay connected
+
+![HireHustle sketch](https://raw.githubusercontent.com/eswarkalla/job-outreach-app/main/sketch.jpg)
+
 If HireHustle saved you time, **follow me on LinkedIn: https://www.linkedin.com/in/eswarakalla** — and share
 it with friends who are job hunting.
