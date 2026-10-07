@@ -1,8 +1,8 @@
-JOB OUTREACH — END USER LICENSE AGREEMENT
+HIREHUSTLE — END USER LICENSE AGREEMENT
 
 Copyright (c) 2026 Eswar Kalla. All rights reserved.
 
-By activating Job Outreach ("the Software") you agree to these terms.
+By activating HireHustle ("the Software") you agree to these terms.
 
 1. LICENSE. You receive a personal, non-exclusive, non-transferable license to use the Software on the one Mac
    the license key was issued for. The license is a one-time purchase and does not expire.
@@ -18,10 +18,10 @@ By activating Job Outreach ("the Software") you agree to these terms.
       using any part of it.
 
 4. FREE TRIAL. One free trial per Mac and per email address. Starting the trial sends this Mac's Machine ID, your
-   Gmail address and the app version to the Job Outreach trial server, only to make sure each trial is used once.
+   Gmail address and the app version to the HireHustle trial server, only to make sure each trial is used once.
    Trying to get another trial (for example by deleting files, reinstalling or using other email accounts) is not
    allowed.
-   CHECK-INS: every few hours the app sends the Job Outreach server its Machine ID, version, plan, a fingerprint
+   CHECK-INS: every few hours the app sends the HireHustle server its Machine ID, version, plan, a fingerprint
    of the license key, today's counts (mails, replies) and short problem notes with personal details removed. It
    receives fixes and license status in return. A license must check in at least once every 30 days, and a
    license that is shared or leaked can be revoked.

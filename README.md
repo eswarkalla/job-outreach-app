@@ -1,6 +1,8 @@
-# Job Outreach — Setup & User Guide
+# HireHustle — C2C job autopilot · Setup & User Guide
 
-Job Outreach finds C2C / contract roles that match your resumes, mails the recruiter from **your own Gmail** with
+![HireHustle](https://raw.githubusercontent.com/eswarkalla/job-outreach-app/main/banner.jpg)
+
+HireHustle finds C2C / contract roles that match your resumes, mails the recruiter from **your own Gmail** with
 the best resume (retitled to the role), follows up, and tracks every reply, RTR, submission and call — all on
 your own Mac.
 
@@ -14,12 +16,12 @@ your own Mac.
 - Install and set up for free. Your trial starts the **first time you press Start**: full features, no mail limit,
   for **3 working days** (Mon–Fri, US Eastern; weekends don't count; a start after noon counts from the next day).
 - **One trial per Mac and per email.** Starting it needs internet once and registers this Mac's ID and your Gmail
-  address with the Job Outreach trial server. Changing Gmail accounts, reinstalling or deleting the app doesn't
+  address with the HireHustle trial server. Changing Gmail accounts, reinstalling or deleting the app doesn't
   start a new trial.
 - When it ends, your data stays; mails pause until you buy a license.
 
 ## 🔄 Stays working by itself
-- Every few hours the app checks in with the Job Outreach server and receives **fixes** (for example when LinkedIn or
+- Every few hours the app checks in with the HireHustle server and receives **fixes** (for example when LinkedIn or
   TextNow change their pages), announcements and license status. No mail contents, names or addresses are sent:
   only the Mac's ID, app version, plan, today's counts and short problem notes with personal details removed.
 - A license needs internet at least **once every 30 days**.
@@ -29,7 +31,7 @@ your own Mac.
 
 - One license = one Mac, yours forever, including all updates. No monthly fee.
 - **To buy:** message **Eswar on WhatsApp: +1 845 253 9604** (https://wa.me/18452539604) with your **Machine ID**
-  (Job Outreach → Settings → License → Copy). The **💬 Buy on WhatsApp** button writes the message for you.
+  (HireHustle → Settings → License → Copy). The **💬 Buy on WhatsApp** button writes the message for you.
 - **Coupons:** ask on WhatsApp. Coupons look like **`PAVI` + 3 letters + the discount**, e.g. `PAVIKQX50` = 50% off
   (25%, 50%, 75% or 100%). Your coupon is **emailed to you**, works **only for your email address**, once, for 30 days.
   Send the code, your Machine ID and that email on WhatsApp.
@@ -53,7 +55,7 @@ your own Mac.
 |---|---|---|
 | A Mac with Apple Silicon (M1/M2/M3/M4…), macOS 13 or newer | The app runs on your own Mac | Apple menu > About This Mac shows the chip |
 | Gmail with **2-Step Verification** on | Mails go out from your own Gmail | https://myaccount.google.com/security |
-| A Gmail **App Password** | Lets the app send and read mail | https://myaccount.google.com/apppasswords → create one called "Job Outreach" |
+| A Gmail **App Password** | Lets the app send and read mail | https://myaccount.google.com/apppasswords → create one called "HireHustle" |
 | Gmail **IMAP on** | To read replies | Gmail > Settings > See all settings > Forwarding and POP/IMAP > Enable IMAP |
 | Your resumes (.docx or .pdf) | Attached to each mail | One per kind of role works best (e.g. Data Engineer, AI/ML Engineer) |
 | Optional: Claude Code or an Anthropic API key | Tailored resumes, reply drafts, Ask assistant, interview prep | https://claude.com/claude-code (then `claude auth login`) |
@@ -66,9 +68,9 @@ your own Mac.
 
 1. Download **JobOutreach-macOS.zip** from **https://github.com/eswarkalla/job-outreach-app/releases/latest**
    (no GitHub account needed).
-2. Double-click the zip, then drag **Job Outreach.app** into your **Applications** folder.
+2. Double-click the zip, then drag **HireHustle.app** into your **Applications** folder.
 3. Open it. The first time, macOS may say it "can't verify the developer": click **Done**, then go to
-   **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Job Outreach (once only).
+   **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to HireHustle (once only).
 4. **Activate:** Settings → **License** → copy your Machine ID → **💬 Buy on WhatsApp** → when you get your key,
    tick **I accept the license agreement**, paste the key → **Activate**.
 
@@ -96,7 +98,7 @@ The Dashboard shows a green **Welcome** card until these are done. Click **Open*
 
 ### Chrome add-on (optional, recommended)
 1. Open `chrome://extensions` → turn on **Developer mode** (top right).
-2. In Job Outreach: **LinkedIn tab → Show the add-on folder**. In Chrome click **Load unpacked** and choose that folder
+2. In HireHustle: **LinkedIn tab → Show the add-on folder**. In Chrome click **Load unpacked** and choose that folder
    (`~/Library/Application Support/JobOutreach/chrome-extension`). After app updates, click ↻ **Reload** on the add-on.
 3. Pin it. While you scroll LinkedIn, posts with recruiter emails are sent to the app; on TextNow it dials and shows the caller card.
 
@@ -214,5 +216,5 @@ reopens by itself in a few seconds. Your data is never changed.
 ---
 
 ### 🤝 Stay connected
-If Job Outreach saved you time, **follow me on LinkedIn: https://www.linkedin.com/in/eswarakalla** — and share
+If HireHustle saved you time, **follow me on LinkedIn: https://www.linkedin.com/in/eswarakalla** — and share
 it with friends who are job hunting.
