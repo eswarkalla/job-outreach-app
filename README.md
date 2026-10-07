@@ -18,6 +18,13 @@ your own Mac.
   start a new trial.
 - When it ends, your data stays; mails pause until you buy a license.
 
+## 🔄 Stays working by itself
+- Every few hours the app checks in with the Job Outreach server and receives **fixes** (for example when LinkedIn or
+  TextNow change their pages), announcements and license status. No mail contents, names or addresses are sent:
+  only the Mac's ID, app version, plan, today's counts and short problem notes with personal details removed.
+- A license needs internet at least **once every 30 days**.
+- If a version has a serious problem, the app asks you to update and pauses sending until you do.
+
 ## 💳 Price: $199 one-time
 
 - One license = one Mac, yours forever, including all updates. No monthly fee.

@@ -21,6 +21,10 @@ By activating Job Outreach ("the Software") you agree to these terms.
    Gmail address and the app version to the Job Outreach trial server, only to make sure each trial is used once.
    Trying to get another trial (for example by deleting files, reinstalling or using other email accounts) is not
    allowed.
+   CHECK-INS: every few hours the app sends the Job Outreach server its Machine ID, version, plan, a fingerprint
+   of the license key, today's counts (mails, replies) and short problem notes with personal details removed. It
+   receives fixes and license status in return. A license must check in at least once every 30 days, and a
+   license that is shared or leaked can be revoked.
 
 5. YOUR DATA. Your mails, resumes, contacts and settings stay on your own Mac. You are responsible for your use
    of your email account and for following the terms of the websites and services you use with the Software
