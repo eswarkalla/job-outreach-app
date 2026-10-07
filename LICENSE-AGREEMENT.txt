@@ -4,8 +4,8 @@ Copyright (c) 2026 Eswar Kalla. All rights reserved.
 
 By activating HireHustle ("the Software") you agree to these terms.
 
-1. LICENSE. You receive a personal, non-exclusive, non-transferable license to use the Software on the one Mac
-   the license key was issued for. The license is a one-time purchase and does not expire.
+1. LICENSE. You receive a personal, non-exclusive, non-transferable license to use the Software on the one computer
+   (Mac or Windows PC) the license key was issued for. The license is a one-time purchase and does not expire.
 
 2. OWNERSHIP. The Software, its code, design and documentation are owned by Eswar Kalla. You buy a license to
    use it, not the Software itself.
@@ -17,7 +17,7 @@ By activating HireHustle ("the Software") you agree to these terms.
    d. build, sell or offer a product or service that copies or imitates the Software or its features
       using any part of it.
 
-4. FREE TRIAL. One free trial per Mac and per email address. Starting the trial sends this Mac's Machine ID, your
+4. FREE TRIAL. One free trial per computer and per email address. Starting the trial sends this computer's Machine ID, your
    Gmail address and the app version to the HireHustle trial server, only to make sure each trial is used once.
    Trying to get another trial (for example by deleting files, reinstalling or using other email accounts) is not
    allowed.
@@ -26,7 +26,7 @@ By activating HireHustle ("the Software") you agree to these terms.
    receives fixes and license status in return. A license must check in at least once every 30 days, and a
    license that is shared or leaked can be revoked.
 
-5. YOUR DATA. Your mails, resumes, contacts and settings stay on your own Mac. You are responsible for your use
+5. YOUR DATA. Your mails, resumes, contacts and settings stay on your own computer. You are responsible for your use
    of your email account and for following the terms of the websites and services you use with the Software
    (for example Gmail, LinkedIn and TextNow), including sending limits and anti-spam rules.
 
