@@ -14,8 +14,9 @@ your own Mac.
 - One license = one Mac, yours forever, including all updates. No monthly fee.
 - **To buy:** message **Eswar on WhatsApp: +1 845 253 9604** (https://wa.me/18452539604) with your **Machine ID**
   (Job Outreach → Settings → License → Copy). The **💬 Buy on WhatsApp** button writes the message for you.
-- **Coupons:** ask on WhatsApp — coupon codes start with **Pavi** (e.g. `PaviK7Q`) and give **25%, 50%, 75% or 100% off**.
-  Each code works once and is valid for 30 days. Send the code with your Machine ID.
+- **Coupons:** ask on WhatsApp. Coupons look like **`PAVI` + 3 letters + the discount**, e.g. `PAVIKQX50` = 50% off
+  (25%, 50%, 75% or 100%). Your coupon is **emailed to you**, works **only for your email address**, once, for 30 days.
+  Send the code, your Machine ID and that email on WhatsApp.
 - After payment you get a **license key** (starts with `JOL1-`) on WhatsApp → paste it in **Settings → License → Activate**.
 - Until activated you can install and set everything up, but mails don't go out.
 - By activating you accept the **license agreement** (personal use on one Mac; no copying, sharing, reselling or reverse-engineering).
