@@ -17,20 +17,25 @@ By activating Job Outreach ("the Software") you agree to these terms.
    d. build, sell or offer a product or service that copies or imitates the Software or its features
       using any part of it.
 
-4. YOUR DATA. Your mails, resumes, contacts and settings stay on your own Mac. You are responsible for your use
+4. FREE TRIAL. One free trial per Mac and per email address. Starting the trial sends this Mac's Machine ID, your
+   Gmail address and the app version to the Job Outreach trial server, only to make sure each trial is used once.
+   Trying to get another trial (for example by deleting files, reinstalling or using other email accounts) is not
+   allowed.
+
+5. YOUR DATA. Your mails, resumes, contacts and settings stay on your own Mac. You are responsible for your use
    of your email account and for following the terms of the websites and services you use with the Software
    (for example Gmail, LinkedIn and TextNow), including sending limits and anti-spam rules.
 
-5. NO WARRANTY. The Software is provided "as is", without warranty of any kind. Results (replies, interviews,
+6. NO WARRANTY. The Software is provided "as is", without warranty of any kind. Results (replies, interviews,
    jobs) are not guaranteed.
 
-6. LIABILITY. To the extent allowed by law, Eswar Kalla is not liable for any indirect or consequential damages,
+7. LIABILITY. To the extent allowed by law, Eswar Kalla is not liable for any indirect or consequential damages,
    lost data, lost profits, or account suspensions arising from use of the Software. Total liability is limited
    to the amount you paid for the license.
 
-7. TERMINATION. Breaking these terms ends your license immediately, without refund. Each license key is tied to
+8. TERMINATION. Breaking these terms ends your license immediately, without refund. Each license key is tied to
    the purchaser's name; keys found shared or leaked will be revoked in future versions.
 
-8. REFUNDS. All sales are final once a license key has been issued, unless agreed otherwise in writing.
+9. REFUNDS. All sales are final once a license key has been issued, unless agreed otherwise in writing.
 
 Contact: WhatsApp +1 845 253 9604 · LinkedIn https://www.linkedin.com/in/eswarakalla

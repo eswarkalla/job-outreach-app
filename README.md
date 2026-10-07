@@ -13,7 +13,9 @@ your own Mac.
 
 - Install and set up for free. Your trial starts the **first time you press Start**: full features, no mail limit,
   for **3 working days** (Mon–Fri, US Eastern; weekends don't count; a start after noon counts from the next day).
-- The trial belongs to **your Mac**: changing Gmail accounts, reinstalling or deleting the app doesn't start a new one.
+- **One trial per Mac and per email.** Starting it needs internet once and registers this Mac's ID and your Gmail
+  address with the Job Outreach trial server. Changing Gmail accounts, reinstalling or deleting the app doesn't
+  start a new trial.
 - When it ends, your data stays; mails pause until you buy a license.
 
 ## 💳 Price: $199 one-time
