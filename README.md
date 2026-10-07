@@ -1,6 +1,6 @@
 # HireHustle — C2C job autopilot · Setup & User Guide
 
-
+![HireHustle](https://raw.githubusercontent.com/eswarkalla/job-outreach-app/main/banner.jpg)
 
 HireHustle finds C2C / contract roles that match your resumes, mails the recruiter from **your own Gmail** with
 the best resume (retitled to the role), follows up, and tracks every reply, RTR, submission and call — all on
