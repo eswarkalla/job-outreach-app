@@ -27,25 +27,22 @@ your own computer — **Mac or Windows**.
 - A license needs internet at least **once every 30 days**.
 - If a version has a serious problem, the app asks you to update and pauses sending until you do.
 
-## 💳 Price: $199 one-time
+## 💳 Plans (plus tax)
 
-- One license = one computer (Mac or Windows), yours forever, including all updates. No monthly fee.
-- **To buy:** message **Eswar on WhatsApp: +1 845 253 9604** (https://wa.me/18452539604) with your **Machine ID**
-  (HireHustle → Settings → License → Copy). The **💬 Buy on WhatsApp** button writes the message for you.
-- **Coupons:** ask on WhatsApp. Coupons look like **`PAVI` + 3 letters + the discount**, e.g. `PAVIKQX50` = 50% off
-  (25%, 50%, 75% or 100%). Your coupon is **emailed to you**, works **only for your email address**, once, for 30 days.
-  Send the code, your Machine ID and that email on WhatsApp.
-- After payment you get a **license key** (starts with `JOL1-`) on WhatsApp → paste it in **Settings → License → Activate**.
-- After the free trial, mails stay paused until you activate (your data is kept).
-- By activating you accept the **license agreement** (personal use on one computer; no copying, sharing, reselling or reverse-engineering).
-
-| Coupon | You pay |
+| Plan | Price |
 |---|---|
-| none | $199.00 |
-| 25% off | $149.25 |
-| 50% off | $99.50 |
-| 75% off | $49.75 |
-| 100% off | $0 (free) |
+| 1 month | **$15** |
+| 3 months | **$40** (save 11%) |
+| 6 months | **$75** (save 17%) |
+
+- One license = one computer (Mac or Windows). Plans don't renew or charge automatically.
+- **To buy or renew:** message **Eswar on WhatsApp: +1 845 253 9604** (https://wa.me/18452539604) with your **Machine ID**
+  (HireHustle → Settings → License → Copy). The **Buy on WhatsApp** button writes the message for you.
+- **Coupons:** codes look like **`PAVI` + 3 letters + the discount** (e.g. `PAVIKQX50` = 50% off any plan). Your coupon is
+  emailed to you and works once, for 30 days, only for your email address.
+- You get a **license key** (starts with `JOL1-`): Settings → **License** → tick the agreement → paste → **Activate**.
+- **Renewing:** a few days before your plan ends the app reminds you; a renewal continues from your end date, so you never lose days.
+- When a plan ends, mails pause until you renew. Your data stays. Lost your key? See **https://hirehustle.app/account**.
 
 ---
 

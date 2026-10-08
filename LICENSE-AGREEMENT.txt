@@ -4,8 +4,11 @@ Copyright (c) 2026 Eswar Kalla. All rights reserved.
 
 By activating HireHustle ("the Software") you agree to these terms.
 
-1. LICENSE. You receive a personal, non-exclusive, non-transferable license to use the Software on the one computer
-   (Mac or Windows PC) the license key was issued for. The license is a one-time purchase and does not expire.
+1. LICENSE AND PLANS. You receive a personal, non-exclusive, non-transferable license to use the Software on the one
+   computer (Mac or Windows PC) the license key was issued for, for the plan you bought: 1 month ($15), 3 months ($40)
+   or 6 months ($75), plus applicable tax. When your plan ends, sending pauses until you renew; your data is kept.
+   Renewing continues from the end of your current plan. Plans don't renew or charge automatically. Lifetime keys
+   sold before plans were introduced stay valid.
 
 2. OWNERSHIP. The Software, its code, design and documentation are owned by Eswar Kalla. You buy a license to
    use it, not the Software itself.
@@ -41,5 +44,6 @@ By activating HireHustle ("the Software") you agree to these terms.
    the purchaser's name; keys found shared or leaked will be revoked in future versions.
 
 9. REFUNDS. All sales are final once a license key has been issued, unless agreed otherwise in writing.
+   Prices may change for future purchases; a plan you already bought keeps its price and end date.
 
 Contact: WhatsApp +1 845 253 9604 · LinkedIn https://www.linkedin.com/in/eswarakalla
