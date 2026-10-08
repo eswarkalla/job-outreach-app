@@ -66,12 +66,12 @@ your own computer — **Mac or Windows**.
 
 ## 2. Install (one time, about 3 minutes)
 
-**Download for your computer** (no GitHub account needed):
+**Download for your computer** at **https://hirehustle.app/download** (no account needed):
 
 | Your computer | Download |
 |---|---|
-| 🍎 **Mac** (Apple Silicon) | **[HireHustle-macOS.zip](https://github.com/eswarkalla/job-outreach-app/releases/latest/download/HireHustle-macOS.zip)** |
-| 🪟 **Windows 10 / 11** | **[HireHustle-Windows.zip](https://github.com/eswarkalla/job-outreach-app/releases/latest/download/HireHustle-Windows.zip)** |
+| 🍎 **Mac** (Apple Silicon) | **[hirehustle.app/download/mac](https://hirehustle.app/download/mac)** |
+| 🪟 **Windows 10 / 11** | **[hirehustle.app/download/windows](https://hirehustle.app/download/windows)** |
 
 ### 🍎 Mac
 1. Double-click the zip, then drag **HireHustle.app** into your **Applications** folder.
